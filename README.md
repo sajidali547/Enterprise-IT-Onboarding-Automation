@@ -1,3 +1,5 @@
+![Enterprise IT Onboarding and Automation Architecture](docs/architecture-diagram.png)
+
 #  Enterprise IT Onboarding & Automation System
 
 ##  Project Overview
